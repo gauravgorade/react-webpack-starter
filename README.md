@@ -4,7 +4,7 @@
 
 A minimal setup demonstrating how to wire React, Webpack, and Babel from scratch using TypeScript — no Create React App, no magic.
 
-**[Live Demo](https://your-live-demo-url.vercel.app)**
+**[Live Demo](https://react-webpack-setup.vercel.app/)**
 
 ## Stack
 
