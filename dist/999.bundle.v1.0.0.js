@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkreact_scratch=self.webpackChunkreact_scratch||[]).push([[999],{999:(e,c,t)=>{t.r(c),t.d(c,{default:()=>a});var r=t(540);const a=function(){return r.createElement("h1",null,"404")}}}]);

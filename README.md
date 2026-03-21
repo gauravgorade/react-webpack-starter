@@ -1,27 +1,45 @@
-# React Starter Project with Webpack and Babel
+# React Webpack Starter
 
-## Description
-This is a starter project for building a React application using Webpack and Babel. It includes configurations for development and production environments, handling CSS and image files, and managing environment variables with dotenv.
+![Screenshot](https://via.placeholder.com/900x500?text=Screenshot+Coming+Soon)
+
+A minimal setup demonstrating how to wire React, Webpack, and Babel from scratch using TypeScript — no Create React App, no magic.
+
+**[Live Demo](https://your-live-demo-url.vercel.app)**
+
+## Stack
+
+- **React 18** + **TypeScript**
+- **Webpack 5** with `webpack-dev-server`
+- **Babel 7** for transpilation
+- **CSS support** via `mini-css-extract-plugin`
 
 ## Getting Started
 
-### Prerequisites
-- Node.js (>= 14.x)
-- npm (>= 6.x) or Yarn (>= 1.x)
+```bash
+git clone https://github.com/gauravgorade/react-webpack-starter.git
+cd react-webpack-starter
+npm install
+npm start
+```
 
-### Installation
+Runs at [http://localhost:8080](http://localhost:8080).
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/gauravgorade/setup-react-with-webpack-and-babel.git
-   cd setup-react-with-webpack-and-babel
-   
-### Install dependencies
-yarn install
+## Scripts
 
-### start the development server with hot reloading
-yarn start
+```bash
+npm start        # development server
+npm run build    # production build → /dist
+```
 
-###  create a production build
-yarn build
+## Project Structure
 
+```
+src/
+├── index.tsx        # entry point
+├── App.tsx          # root component
+├── index.html       # HTML template
+└── index.css        # global styles
+webpack.config.js
+babel.config.json
+package.json
+```

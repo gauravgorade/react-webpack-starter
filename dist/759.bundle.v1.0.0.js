@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkreact_scratch=self.webpackChunkreact_scratch||[]).push([[759],{759:(e,a,r)=>{r.r(a),r.d(a,{default:()=>c});var t=r(540);const c=function(){return t.createElement("div",{className:"resume"},t.createElement("a",{href:"https://gauravgorade.vercel.app/resume"},"Resume Link"))}}}]);
