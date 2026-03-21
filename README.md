@@ -1,6 +1,6 @@
 # React Webpack Starter
 
-![Screenshot](https://via.placeholder.com/900x500?text=Screenshot+Coming+Soon)
+![Screenshot](https://raw.githubusercontent.com/gauravgorade/react-webpack-starter/refs/heads/main/SS.png)
 
 A minimal setup demonstrating how to wire React, Webpack, and Babel from scratch using TypeScript — no Create React App, no magic.
 
