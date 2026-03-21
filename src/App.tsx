@@ -253,7 +253,16 @@ function App() {
           }}
         >
           <span>ISC License</span>
-          <span>github.com/gauravgorade</span>
+          <a
+            href="https://github.com/gauravgorade"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{ color: "#333", textDecoration: "none", transition: "color 0.15s" }}
+            onMouseEnter={(e) => (e.currentTarget.style.color = "#61dafb")}
+            onMouseLeave={(e) => (e.currentTarget.style.color = "#333")}
+          >
+            github.com/gauravgorade
+          </a>
         </div>
       </div>
     </div>
